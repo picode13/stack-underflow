@@ -98,3 +98,14 @@ cd server
 npm install
 npm run dev
 ```
+Stack Underflow is fullstack Stack Overflow clone (QnA site) made with MERN + GraphQL
+
+Used ReactJS for Frontend framework and Apollo Client for State management library to manage data with GraphQL. used date-fns for manipulating and formatting of dates
+
+For back end used Node.js- Runtime environment for JS
+
+Apollo Server- To build a self-documenting GraphQL API server
+
+MongoDB- Database to store document-based data and Mongoose as MongoDB object modeling for Node.js
+
+JSON Web Token- A standard to secure/authenticate HTTP requests  Bcrypt.js- For hashing passwords
